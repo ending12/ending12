@@ -1,6 +1,6 @@
 ## Hey,Welcome here 👋
 
-I’m ChrisZhang, a software engineer, Have a nice day!
+I’m ChrisZhang, a games development , Have a nice day!
 
 Want to know more about me? [Check out my Blog.](https://www.cnblogs.com/air-space/)
 
